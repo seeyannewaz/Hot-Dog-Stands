@@ -9,7 +9,7 @@
 
 using namespace std;
 
-const string HOTDOG_STANDS_FILE_NAME = "nfoHotDogStands.txt";
+const string HOTDOG_STANDS_FILE_NAME = "InfoHotDogStands.txt";
 const string TRANSACTIONS_FILE_NAME = "InfoHotDogStandsTransactions.txt";
 const string GLOBAL_SOLD_FILE_NAME = "InfoGlobalSold.txt";
 
